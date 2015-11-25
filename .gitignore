@@ -1,0 +1,9 @@
+# I only want certain files to be tracked so 
+# I'm ignoring everything except a few
+*
+
+# Files I want Tracked
+!.gitignore
+!./bases/base-post.php
+!./bases/index-base.php
+!./css/site-specific/project-posts.css
