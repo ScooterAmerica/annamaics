@@ -1,0 +1,62 @@
+body {
+	background-color: #ECECEC;
+}
+
+/**********************************
+	Image styling
+**********************************/
+.header-image {
+	-webkit-max-logical-height: 400px;
+	max-height: 400px;
+	margin: 1rem;
+}
+
+.section-image {
+	margin: 1em auto;
+	display: block;
+	-webkit-max-logical-height: 350px;
+	max-height: 350px;
+}
+
+.section-image-large {
+	margin: 1em auto;
+	display: block;
+	-webkit-max-logical-height: 350px;
+	max-height: 450px;
+}
+
+.rotate {
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+}
+
+/**********************************
+	Post Styling
+**********************************/
+.post-content-block {
+        width: 65em;
+        margin: 0 auto 4rem;
+}
+
+.post-content {
+	font-size: 20px;
+	text-align: left !important;
+}
+
+.post-title {
+	text-decoration: underline;
+}
+
+.post-background {
+	background-color: white;
+	box-shadow: 10px 10px 5px #888888;
+	padding: 0 1rem 0 1rem;
+}
+
+
+/**********************************
+	Header Styling
+**********************************/
+.section-header {
+	font-weight: bold;	
+}
