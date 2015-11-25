@@ -5,9 +5,9 @@
 # Files I want Tracked
 !.gitignore
 !./README.md
-!./bases/base-post.php
-!./bases/index-base.php
-!./css/site-specific/project-posts.css
+!base-post.php
+!index-base.php
+!project-posts.css
 
 # Unignore subdirectories in order to find files I want to be tracked
 !*/
