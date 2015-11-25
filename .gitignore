@@ -8,3 +8,6 @@
 !./bases/base-post.php
 !./bases/index-base.php
 !./css/site-specific/project-posts.css
+
+# Unignore subdirectories in order to find files I want to be tracked
+!*/
